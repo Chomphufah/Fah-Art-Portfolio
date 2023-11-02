@@ -242,7 +242,7 @@ input {
 
 /*=============== Home ===============*/
 .home {
-  background: url(../img/Header.png);
+  background: url(../img/header.png);
   background-size : cover;
   background-repeat: no-repeat;
   background-position: center;

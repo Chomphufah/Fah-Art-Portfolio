@@ -446,6 +446,7 @@ input {
 
 .bullet-list li {
   padding: 5px 0; 
+  text-align: left;
 }
 
 /*=============== Contact ===============*/

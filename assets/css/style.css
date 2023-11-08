@@ -429,7 +429,7 @@ input {
 .work_container {
   flex-wrap: wrap;
   display: flex;
-  column-gap: 2rem;
+  gap: 2rem;
 }
 
 .work_item {
